@@ -1,5 +1,5 @@
 {
-  "name": "card.io.cordova.mobilesdk",
+  "name": "cordova-plugin-card-io-fix",
   "version": "2.1.1",
   "description": "This plugin allows to add card.io scanning capabilities to your application using card.io SDK Native library",
   "cordova": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/card-io/card.io-Cordova-Plugin.git"
+    "url": "git+ssh://git@github.com/PunteriaCero/card.io-Cordova-Plugin.git"
   },
   "keywords": [
     "card.io",
@@ -27,10 +27,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "card.io",
+  "author": "punteriacero",
   "license": "MIT License, see LICENSE for details",
   "bugs": {
-    "url": "https://github.com/card-io/card.io-Cordova-Plugin/issues"
+    "url": "https://github.com/PunteriaCero/card.io-Cordova-Plugin/issues"
   },
-  "homepage": "https://github.com/card-io/card.io-Cordova-Plugin#readme"
+  "homepage": "https://github.com/PunteriaCero/card.io-Cordova-Plugin#readme"
 }
